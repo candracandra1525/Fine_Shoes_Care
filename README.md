@@ -8,4 +8,4 @@ KELOMPOK 1 : <br/>
 5. Randie Sasongko (2125250042) <br/>
 
 
-<code><img width="500" src="https://raw.githubusercontent.com/candracandra1525/Fine_Shoes_Care/main/fineshoescare.png"/></code>
+<code><img width="1000" src="https://raw.githubusercontent.com/candracandra1525/Fine_Shoes_Care/main/fineshoescare.png"/></code>
